@@ -1,0 +1,6 @@
+[book]
+authors = ["PenutChen"]
+language = "zh-tw"
+multilingual = false
+src = "src"
+title = "Eidolon Hunting Note"
